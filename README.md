@@ -7,6 +7,11 @@ A pair of Flask web applications for demonstrating stack (LIFO) and queue (FIFO)
 Princess Jhoana B. Macatantan
 BSIT WMT 4-2
 
+## Repository
+
+- [GitHub repository](https://github.com/codewithzephyraaa/stack_queue_simulator_princessmacatantan)
+- [Commit history](https://github.com/codewithzephyraaa/stack_queue_simulator_princessmacatantan/commits/main)
+
 ## Requirements
 
 - Python 3.10 or later
