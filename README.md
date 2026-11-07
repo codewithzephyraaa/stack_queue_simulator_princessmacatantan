@@ -4,7 +4,7 @@ A pair of Flask web applications for demonstrating stack (LIFO) and queue (FIFO)
 
 ## Author
 
-**Princess Jhoana B. Macatantan**
+Princess Jhoana B. Macatantan
 BSIT WMT 4-2
 
 ## Requirements
